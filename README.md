@@ -1,5 +1,5 @@
 ### http://aman-naklicoder.github.io/
 
-![name-of-you-image](https://github.com/naklic0der/-100dayscodechallenge/blob/master/r1.jpg?raw=true)
+![name-of-you-image](https://raw.githubusercontent.com/naklic0der/naklic0der/master/me.png)
 
 You can contact me : naklicoder@gmail.com
